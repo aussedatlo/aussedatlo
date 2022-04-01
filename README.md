@@ -1,7 +1,8 @@
 # Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-aussedat.louis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aussedat.louis@gmail.com)](mailto:aussedat.louis@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/louis-aussedat-6968b3113/)
+[![GitHub followers](https://img.shields.io/github/followers/aussedatlo?label=Follow&style=social)](https://github.com/aussedatlo/?tab=follow)
 
 ## :sunglasses: About Me
 
@@ -9,11 +10,11 @@
 - :violin: Musician lover.
 - :crystal_ball: Blockchain enthousiast.
 - :penguin: Linux user.
-- :mortar_board: [EISTI]() diploma in Computer engineering.
+- :mortar_board: [EISTI](https://cytech.cyu.fr/) diploma in Computer engineering.
 
-## Experiences
+## :bookmark_tabs: Experiences
 
-### Embedded engineer at [Engie Ineo Systrans]()
+### Embedded engineer at [Engie Solutions](https://www.engie-solutions.com/fr)
 
 ![2018-now](https://img.shields.io/badge/2018-now-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
 
@@ -21,14 +22,14 @@
 - Developping and maintaining Middleware to access low level equipment.
 - Setting up automation tools to check, validate and deploy products.
 
-### Intern at [Médiane Système]()
+### Intern at [Médiane Système](https://medianesysteme.com/fr/)
 
 ![2018-6_months](https://img.shields.io/badge/2018-6_months-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
 
 - Creation of a lightweight, security-oriented Linux OS for embedded computers.
 - Research and implementation of tools to analyse security breach.
 
-### Intern at [Sopra Steria]()
+### Intern at [Sopra Steria](https://www.soprasteria.com/fr)
 
 ![2017-6_months](https://img.shields.io/badge/2017-6_months-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
 
@@ -73,7 +74,7 @@ _Typescript, React, Solidity_
 ### [DCANod](https://github.com/aussedatlo/dcanod)
 
 Simple cli application to buy crypto on crypto exchange. <br>
-_Node.js, Typescript_
+_Typescript, Node.js_
 
 ### [web-pip-show](https://github.com/aussedatlo/web-pip-show)
 
