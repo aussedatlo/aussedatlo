@@ -66,7 +66,7 @@
 
 ## :bulb: Personnal projects
 
-### [Elvate](https://github.com/aussedatlo/elvate)
+### [Elvate](https://github.com/elvate-app)
 
 Decentralized application to apply DCA strategy on different crypto pairs using DEX. <br>
 _Typescript, React, Solidity_
