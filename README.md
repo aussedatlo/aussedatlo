@@ -1,4 +1,6 @@
-# Hi there 👋
+![Svg banner](./src/hi-there-glitch.svg)
+
+## :mailbox: Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-aussedat.louis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aussedat.louis@gmail.com)](mailto:aussedat.louis@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/louis-aussedat-6968b3113/)
