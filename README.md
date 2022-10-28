@@ -21,7 +21,7 @@
 ![2018-now](https://img.shields.io/badge/2018-now-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
 
 - Creating and maintaining lightweight and customized Linux OS for embedded computers.
-- Developping and maintaining Middleware to access low level equipment.
+- Developing and maintaining Middleware to access low level equipment.
 - Setting up automation tools to check, validate and deploy products.
 
 ### Intern at [Médiane Système](https://medianesysteme.com/fr/)
