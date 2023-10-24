@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-aussedat.louis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aussedat.louis@gmail.com)](mailto:aussedat.louis@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/louis-aussedat-6968b3113/)
 [![GitHub followers](https://img.shields.io/github/followers/aussedatlo?label=Follow&style=social)](https://github.com/aussedatlo/?tab=follow)
+![Views](https://komarev.com/ghpvc/?username=aussedatlo)
 
 ## :sunglasses: About Me
 
