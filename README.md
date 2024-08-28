@@ -9,7 +9,7 @@
 
 ## :sunglasses: About Me
 
-- :computer: Embedded enginer.
+- :computer: Software enginer.
 - :violin: Musician lover.
 - :crystal_ball: Blockchain enthousiast.
 - :penguin: Linux user.
@@ -17,9 +17,16 @@
 
 ## :bookmark_tabs: Experiences
 
-### Embedded engineer at [Engie Solutions](https://www.engie-solutions.com/fr)
+### Software engineer at [Ledger](https://ledger.com)
 
-![2018-now](https://img.shields.io/badge/2018-now-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
+![2023-now](https://img.shields.io/badge/2018-now-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
+
+- Maintenance and development of the mobile and desktop application
+- Development of a new SDK from scratch to communicate with Ledger devices and interact with all supported blockchains
+
+### Embedded software engineer at [Engie Solutions](https://www.engie-solutions.com/fr)
+
+![2018-2023](https://img.shields.io/badge/2018-now-informational?style=flat&logo=date&logoColor=white&color=lightgrey)
 
 - Creating and maintaining lightweight and customized Linux OS for embedded computers.
 - Developing and maintaining Middleware to access low level equipment.
